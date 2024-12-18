@@ -24,7 +24,7 @@ Fashion-Store/
 ## How to Use
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/Fashion-Store.git
+   git clone https:
    ```
 
 2. **Navigate to the Project Directory**:
