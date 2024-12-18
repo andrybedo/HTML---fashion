@@ -42,7 +42,7 @@ Fashion-Store/
 1. Push the code to your GitHub repository.
 2. Go to the repository settings and enable GitHub Pages.
 3. Select the `main` branch as the source and save.
-4. Your website will be live at `https://<your-username>.github.io/Fashion-Store/`.
+4. Your website will be live at 
 
 ## Requirements
 - A modern web browser (e.g., Chrome, Firefox, Edge) to view the website.
